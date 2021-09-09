@@ -12,6 +12,7 @@ Aplikasi Laundry Berbasis website ini adalah sebuah aplikasi yang berfungsi untu
 # Teknologi Yang Digunakan
 <ul>
 <li>Boostrap Versi 3</li>
+  <li>Admin LTE </li>
 <li>Php Native</li>
 <li>Font Awesome</li>
 </ul>
