@@ -16,6 +16,11 @@ Aplikasi Laundry Berbasis website ini adalah sebuah aplikasi yang berfungsi untu
 <li>Font Awesome</li>
 </ul>
 
+# Hak Akses
+<ul>
+<li>Admin</li>
+</ul>
+
 # Instalasi 
 ```
 git clone https://github.com/Nofrisdan/Aplikasi_laundry.git
