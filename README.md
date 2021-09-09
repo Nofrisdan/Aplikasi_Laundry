@@ -22,6 +22,9 @@ git clone https://github.com/Nofrisdan/Aplikasi_laundry.git
 ```
 
 # Gambar Aplikasi
-
+<img src="img/Laundry1.png">
+<img src="img/Laundry2.png">
+<img src="img/LAUNDRY3.png">
+<img src="img/laundry4.png">
 
 
